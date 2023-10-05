@@ -25,3 +25,4 @@ This project also offers advanced configuration options. Refer to the following 
 - [Advanced Configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration): This section provides information on how to perform advanced configuration tasks for your React app.
 - [Deployment](https://facebook.github.io/create-react-app/docs/deployment): Learn how to deploy your React app to various hosting platforms.
 - [Troubleshooting](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify): This section covers common issues and troubleshooting tips.
+# projects
